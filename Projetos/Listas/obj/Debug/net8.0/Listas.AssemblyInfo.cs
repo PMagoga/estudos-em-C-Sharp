@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TratamentoExcecoes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Listas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+758dc1840eb1cf0755acad39d70c302b3c2c28eb")]
-[assembly: System.Reflection.AssemblyProductAttribute("TratamentoExcecoes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TratamentoExcecoes")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae63a08481bbaec0a6d20daa5d37e52f833e3317")]
+[assembly: System.Reflection.AssemblyProductAttribute("Listas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Listas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
