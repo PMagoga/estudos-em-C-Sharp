@@ -1,0 +1,15 @@
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.AssemblyInfo.cs
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.sourcelink.json
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.exe
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.deps.json
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.runtimeconfig.json
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.dll
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\bin\Debug\net8.0\TratamentoExcecoes.pdb
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.dll
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\refint\TratamentoExcecoes.dll
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.pdb
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\TratamentoExcecoes.genruntimeconfig.cache
+D:\CSharp\Estudos\Listas\TratamentoExcecoes\obj\Debug\net8.0\ref\TratamentoExcecoes.dll

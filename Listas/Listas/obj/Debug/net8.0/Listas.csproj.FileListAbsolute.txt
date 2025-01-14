@@ -1,0 +1,15 @@
+D:\CSharp\Estudos\Listas\Listas\bin\Debug\net8.0\Listas.exe
+D:\CSharp\Estudos\Listas\Listas\bin\Debug\net8.0\Listas.deps.json
+D:\CSharp\Estudos\Listas\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+D:\CSharp\Estudos\Listas\Listas\bin\Debug\net8.0\Listas.dll
+D:\CSharp\Estudos\Listas\Listas\bin\Debug\net8.0\Listas.pdb
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.dll
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\refint\Listas.dll
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.pdb
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\ref\Listas.dll
+D:\CSharp\Estudos\Listas\Listas\obj\Debug\net8.0\Listas.sourcelink.json
